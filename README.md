@@ -38,8 +38,8 @@ The chatbot features:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/rag-chatbot.git
-cd rag-chatbot
+git clone https://github.com/Kajal2000kk/RAG_LLM_CHATBOT.git
+
 ```
 
 2. **Create virtual environment**
